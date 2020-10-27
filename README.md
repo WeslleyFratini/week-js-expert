@@ -7,10 +7,6 @@
 
 ![titulos](./prints/titulos.png)
 
-## Vídeo
-
-![titulos](./prints/demo.png)
-
 ### Créditos
 
 - Layout da lista foi baseada no codepen do [Carlos Avila
